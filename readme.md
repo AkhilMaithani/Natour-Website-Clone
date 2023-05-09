@@ -2,9 +2,7 @@
 
 - It is a travel website clone
 
-<img src="https://img.shields.io/badge/%20-HTML5-orange" alt="HTML5" />
-<img src="https://img.shields.io/badge/%20-CSS3-blue" alt="CSS3" />
-<img src="https://img.shields.io/badge/%20-SCSS-brightgreen" alt="SCSS" />
+<img src="https://img.shields.io/badge/%20-HTML5-orange" alt="HTML5" /> <img src="https://img.shields.io/badge/%20-CSS3-blue" alt="CSS3" /> <img src="https://img.shields.io/badge/%20-SCSS-brightgreen" alt="SCSS" />
 
 ## How to run the Project
 
