@@ -1,6 +1,6 @@
 # Natours Website Clone
 
-- It is a travel website clone
+This is a responsive clone of a travel website, focusing solely on replicating the frontend design and features. It offers a user-friendly interface, ensuring accessibility on different devices for browsing travel-related content and information.
 
 <img src="https://img.shields.io/badge/%20-HTML5-orange" alt="HTML5" /> <img src="https://img.shields.io/badge/%20-CSS3-blue" alt="CSS3" /> <img src="https://img.shields.io/badge/%20-SCSS-brightgreen" alt="SCSS" />
 
